@@ -1,0 +1,31 @@
+backpack
+bike
+bike helmet
+bookcase
+bottle
+calculator
+desk chair
+desk lamp
+desktop computer
+file cabinet
+headphones
+keyboard
+laptop computer
+letter tray
+mobile phone
+monitor
+mouse
+mug
+paper notebook
+pen
+phone
+printer
+projector
+punchers
+ring binder
+ruler
+scissor
+speaker
+stapler
+tape dispenser
+trash can
